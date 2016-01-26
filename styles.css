@@ -5,8 +5,13 @@ p {
     text-align: center
 }
 h1 {
-    text-align: center
+    text-align: center;
+    color: blue
 }
 img {
     vertical-align: middle
+}
+h2 {
+    text-align: center;
+    color: blue
 }
